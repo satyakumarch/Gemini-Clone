@@ -1,10 +1,11 @@
 import React from "react";
+import Sidebar from "./Components/Sidebar/Sidebar";
 const App=()=>{
   return(
-    <div>
-      <h1>jai sri krishna</h1>
-    </div>
+    <>
+    <Sidebar/>
+    </>
 
   )
 };
-export default App;
+export default App;  
