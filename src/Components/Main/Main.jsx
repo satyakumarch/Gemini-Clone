@@ -41,9 +41,12 @@ const Main = () => {
                 </div>
 
                 </div>
+                <p className='bottom-info'>
+                Gemini may display inaccurate info,including about people,so double-check its reagain.
+            </p>
                
             </div>
-            <p className='bottom-info'></p>
+            
         </div>
     </div>
   )

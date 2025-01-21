@@ -98,3 +98,11 @@
     align-items: center;
     gap: 15px;
 }
+.main .bottom-info{
+    font-size: 13px;
+    text-align: center;
+    align-items: 300px;
+    margin-bottom: 30px;
+    
+
+}
